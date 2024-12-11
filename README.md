@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaidodia
 - 👀 I’m interested in ...python and data science
-- 🌱 I’m currently learning ...odoo
+- 🌱 I’m currently learning ...machine learning
 - 💞️ I’m looking to collaborate on ...Google Developer Group
 - 📫 How to reach me ...+917016439431,jaijdodia@gmail.com
 
